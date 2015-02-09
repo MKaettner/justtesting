@@ -2,4 +2,10 @@
 <qualifiedTypeNameHistroy>
 <fullyQualifiedTypeName name="java.io.ObjectInputStream.GetField"/>
 <fullyQualifiedTypeName name="VariousThings"/>
+<fullyQualifiedTypeName name="OutPutStream"/>
+<fullyQualifiedTypeName name="api.aufgabe.CountResult"/>
+<fullyQualifiedTypeName name="api.aufgabe.impl.VerySimpleCountImpl"/>
+<fullyQualifiedTypeName name="exceptions.aufgabe.ValidationException"/>
+<fullyQualifiedTypeName name="exceptions.aufgabe.ValidationRuntimeException"/>
+<fullyQualifiedTypeName name="java.io.File"/>
 </qualifiedTypeNameHistroy>
